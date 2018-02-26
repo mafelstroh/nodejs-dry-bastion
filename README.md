@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/mafelstroh/nodejs-dry-bastion.svg?branch=master)](https://travis-ci.org/mafelstroh/nodejs-dry-bastion)
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.1.
