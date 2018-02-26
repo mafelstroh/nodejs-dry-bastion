@@ -13,4 +13,4 @@ before_script:
   - sleep 3 # give xvfb some time to start
 script:
   - ng lint
-  - ng test
+  - ng test && ng e2e
